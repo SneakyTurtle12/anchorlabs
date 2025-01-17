@@ -8,7 +8,6 @@ import plotly.express as px
 import streamlit_vertical_slider as svs
 import matplotlib.pyplot as plt
 import plotly.graph_objects as go
-import altair as alt
 
 st.set_page_config(layout='wide', page_title='Kenya Waterbasin Investment Dashboard PLAY AROUND')
 input_weighting = st.container(border=True)
